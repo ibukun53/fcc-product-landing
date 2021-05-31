@@ -2,76 +2,28 @@
 
 >  This product landing is designed to provide  full information  usually about a product to our customers.
 
-![screenshot](./app_screenshot.png)
+
 A product landing page is a page created specifically to convince a visitor to convert on a product-related offer.They can be used across teams and services to convert people on a particular offer.It features  clear and attractive headings  ,attractive images and videos ,reduce linking.
 
 ## Built With
 
-- Html and css,
-- freecampcode ,cousera and codePen,
-- P.C
+- Html,Css and Markdown
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/ibukun53/fcc-product-landing.git
 
 ```
 
-- Install Dependencies
+## 👤 Username
 
-```bash
-npm install
-```
-
-To run StyleLint by itself, you may run the lint task:
-
-```bash
-npm run lint:check
-```
-
-Or to automatically fix issues found (where possible):
-
-```bash
-npm run lint
-```
-
-You can also check against Prettier:
-
-```bash
-npm run format:check
-```
-
-and to have it actually fix (to the best of its ability) any format issues, run:
-
-```bash
-npm run format
-```
-
-You can also check against HTML Validator:
-
-```bash
-npm run html-validator
-```
-
-## Style Guides
-
-- [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-- [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-- [Git Style Guide](https://udacity.github.io/git-styleguide/)
-
-## 👤 Author
-
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github:[username](https://github.com/ibukun53)
+- Linkedin: [username](www.linkedin.com/in/ibukun53)
 
 ## 🤝 Contributing
 
